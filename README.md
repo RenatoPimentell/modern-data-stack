@@ -22,7 +22,7 @@ Infraestrutura:
 
 - Snowflake Data Warehouse:
     
-    - Criar a Conta no SnowFlake 
+    - Criar a Conta no SnowFlake X
     - Verificar a existência das tabelas 
     - Obter os links de conexão e nome da conta 
 
